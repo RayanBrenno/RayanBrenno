@@ -1,0 +1,105 @@
+design:
+  theme: classic
+  entries:
+    short_second_row: false
+    degree_width: "0cm"
+  templates:
+    education_entry:
+      degree_column: null
+
+cv:
+  name: Rayan Brenno
+  headline: Estudante de Engenharia da Computação
+  location: Goiânia, GO, Brasil
+  email: rayanbrennodev@gmail.com
+  phone: "+55 62 98404-3861"
+  social_networks:
+    - network: GitHub
+      username: RayanBrenno
+    - network: LinkedIn
+      username: rayanbrenno-454222293
+    - network: Leetcode
+      username: RayanBrenno
+
+  sections:
+    summary:
+      - Estudante de Engenharia da Computação com foco no desenvolvimento de aplicações fullstack e na resolução de problemas reais por meio de software. Experiência no design de sistemas backend, implementação de regras de negócio e desenvolvimento de aplicações web com autenticação, validação de dados e fluxos multiusuário. Forte interesse em sistemas escaláveis, automação e soluções baseadas em dados. Aberto a oportunidades em backend ou fullstack.
+
+    experience:
+      - company: 3R Contabilidade
+        position: Secretário Contábil
+        start_date: 2022-01
+        end_date: present
+        highlights:
+          - Gerenciamento do estoque de mercadorias de empresas clientes.
+          - Implementação de automação com PyAutoGUI para download de arquivos.
+          - Redução de esforço manual e otimização de rotinas operacionais.
+
+    education:
+      - institution: Instituto Federal Goiano - Campus Trindade
+        area: Engenharia da Computação
+        start_date: 2022-01
+        end_date: present
+        highlights:
+          - "IRA (GPA): 9.07 / 10.00"
+          - "Previsão de conclusão: Dezembro de 2026"
+
+    projects:
+      - name: Análise de Movimento da Remada Baixa com MediaPipe
+        highlights:
+          - Desenvolvimento de um sistema de análise de pose utilizando MediaPipe para avaliar a execução da remada baixa
+          - Definição de métricas de movimento a partir de um vídeo de referência com execução correta
+          - Implementação de validação baseada em regras para comparar movimentos com o padrão ideal
+          - Geração de feedback automatizado com base no desvio em relação ao movimento ideal
+
+      - name: Sistema de Classificação de Score de Crédito
+        highlights:
+          - Desenvolvimento de uma aplicação fullstack utilizando React e FastAPI para análise de risco de crédito
+          - Integração de modelo de machine learning para classificar usuários em categorias de risco
+          - Implementação de autenticação com JWT e validação de dados financeiros
+          - Criação de endpoints de API e processamento de dados entre frontend e backend
+          - "Demonstração: https://projeto-score-credito-web.vercel.app/"
+
+      - name: Plataforma de Gerenciamento de Tarefas Organizacionais
+        highlights:
+          - Desenvolvimento de um sistema multiusuário de gerenciamento de tarefas com suporte a organizações e tarefas compartilhadas
+          - Implementação de controle de acesso baseado em papéis (owner e membros) e regras de visibilidade
+          - Desenvolvimento do backend com FastAPI e frontend com React, incluindo interface de dashboard
+          - Estruturação de fluxos de tarefas pessoais e organizacionais com integração a banco de dados
+          - "Demonstração: https://projeto-to-do-list-xi-gold.vercel.app/"
+
+      - name: Automação de Download de Notas Fiscais
+        highlights:
+          - Desenvolvimento de automação em Python utilizando PyAutoGUI para acessar site governamental e realizar download de notas fiscais
+
+      - name: Repositório de Soluções LeetCode
+        highlights:
+          - Criação de repositório no GitHub com soluções para diversos problemas do LeetCode em Python, demonstrando habilidades de resolução de problemas e conhecimento em algoritmos
+
+    skills:
+      - label: Backend
+        details: Python, FastAPI, APIs REST, Autenticação JWT, Validação de Dados
+
+      - label: Frontend
+        details: React, Vite, Tailwind CSS, HTML, CSS
+
+      - label: Banco de Dados
+        details: PostgreSQL, MongoDB, SQL
+
+      - label: Dados & IA
+        details: scikit-learn, Classificação de Dados, MediaPipe (Estimativa de Pose)
+
+      - label: Ferramentas
+        details: Git, PyAutoGUI, Integração de APIs
+
+    languages:
+      - label: Português
+        details: Nativo
+      - label: Inglês
+        details: Avançado (B2)
+
+    courses:
+      - bullet: Python 3 – Curso Completo (26h) – Udemy
+      - bullet: HTML5 com Projetos Práticos (18.5h) – Udemy
+      - bullet: Jornada Python (8h) – Hashtag Treinamentos
+      - bullet: Jornada de Inteligência Artificial (8h) – Hashtag Treinamentos

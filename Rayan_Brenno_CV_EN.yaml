@@ -1,0 +1,105 @@
+design:
+  theme: classic
+  entries:
+    short_second_row: false
+    degree_width: "0cm"
+  templates:
+    education_entry:
+      degree_column: null
+
+cv:
+  name: Rayan Brenno
+  headline: Computer Engineering Student
+  location: Goiânia, GO, Brazil
+  email: rayanbrennodev@gmail.com
+  phone: "+55 62 98404-3861"
+  social_networks:
+    - network: GitHub
+      username: RayanBrenno
+    - network: LinkedIn
+      username: rayanbrenno-454222293
+    - network: Leetcode
+      username: RayanBrenno
+
+  sections:
+    summary:
+      - Computer Engineering student focused on building fullstack applications and solving real-world problems through software development. Experience in designing backend systems, implementing business logic, and developing web applications with authentication, data validation, and multi-user workflows. Strong interest in scalable systems, automation, and applied data solutions. Open to backend or fullstack opportunities.
+
+    experience:
+      - company: 3R Contabilidade
+        position: Accounting Secretary
+        start_date: 2022-01
+        end_date: present
+        highlights:
+          - Manage goods inventory for client companies.
+          - Implemented automation with PyAutoGUI for file downloads.
+          - Reduced manual effort and optimized operational routines.
+
+    education:
+      - institution: Instituto Federal Goiano - Campus Trindade
+        area: Computer Engineering
+        start_date: 2022-01
+        end_date: present
+        highlights:
+          - "GPA (IRA): 9.07 / 10.00"
+          - "Expected graduation: December 2026"
+
+    projects:
+      - name: Low Row Movement Analysis with MediaPipe
+        highlights:
+          - Built a pose analysis system using MediaPipe to evaluate low row exercise execution
+          - Defined baseline movement metrics from a reference video with correct form
+          - Implemented rule-based validation to compare user movements against the reference pattern
+          - Provided automated feedback based on deviation from ideal movement
+
+      - name: Credit Score Classification System
+        highlights:
+          - Developed a fullstack application using React and FastAPI for credit risk analysis
+          - Integrated a machine learning model to classify users into credit risk categories
+          - Implemented authentication with JWT and input validation for financial data
+          - Designed API endpoints and handled data processing between frontend and backend
+          - "Live demo: https://projeto-score-credito-web.vercel.app/"
+
+      - name: Organizational Task Management Platform
+        highlights:
+          - Built a multi-user task management system with support for organizations and shared tasks
+          - Implemented role-based access control (owner and members) and task visibility rules
+          - Developed backend with FastAPI and frontend with React, including dashboard interface
+          - Structured personal and organizational task flows with database integration
+          - "Live demo: https://projeto-to-do-list-xi-gold.vercel.app/"
+
+      - name: Invoice Download Automation
+        highlights:
+          - Built a Python automation using PyAutoGUI to access a government website and download invoices for companies.
+
+      - name: Leetcode Solutions Repository
+        highlights:
+          - Created a GitHub repository with solutions to various Leetcode problems in Python, demonstrating problem-solving skills and algorithmic knowledge.
+
+    skills:
+      - label: Backend
+        details: Python, FastAPI, REST APIs, JWT Authentication, Data Validation
+
+      - label: Frontend
+        details: React, Vite, Tailwind CSS, HTML, CSS
+
+      - label: Databases
+        details: PostgreSQL, MongoDB, SQL
+
+      - label: Data & AI
+        details: scikit-learn, Data Classification, MediaPipe (Pose Estimation)
+
+      - label: Tools
+        details: Git, PyAutoGUI, API Integration
+
+    languages:
+      - label: Portuguese
+        details: Native
+      - label: English
+        details: Advanced (B2)
+
+    courses:
+      - bullet: Python 3 – Complete Course (26h) – Udemy
+      - bullet: HTML5 with Practical Projects (18.5h) – Udemy
+      - bullet: Python Journey (8h) – Hashtag Treinamentos
+      - bullet: Artificial Intelligence Journey (8h) – Hashtag Treinamentos
