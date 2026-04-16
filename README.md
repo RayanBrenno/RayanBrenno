@@ -1,8 +1,6 @@
 # I'm Rayan Brenno 👋
 
-Computer Engineering student focused on building fullstack applications and solving real-world problems through software development.
-
-I have hands-on experience designing backend systems, implementing business logic, and developing web applications with authentication, data validation, and multi-user workflows.
+Computer Engineering student at Instituto Federal Goiano, passionate about learning, building, and continuously improving through technology. I enjoy turning ideas into practical solutions, collaborating with others, and challenging myself with new problems. Always looking to grow both personally and professionally while contributing in meaningful ways.
 
 ---
 
@@ -47,4 +45,4 @@ I have hands-on experience designing backend systems, implementing business logi
 
 ## 📄 Resume
 
-👉 [Download my CV](https://github.com/RayanBrenno/cv/blob/main/Rayan_Brenno_CV_EN.pdf)
+👉 [View my CV repository](https://github.com/RayanBrenno/RayanBrenno)
