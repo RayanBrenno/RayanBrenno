@@ -1,117 +1,50 @@
-# Rayan Brenno's CV
+# I'm Rayan Brenno 👋
 
-- Phone: +55 62 98404 3861
-- Email: [rayanbrennodev@gmail.com](mailto:rayanbrennodev@gmail.com)
-- Location: Goiânia, GO, Brazil
-- GitHub: [RayanBrenno](https://github.com/RayanBrenno)
-- LinkedIn: [rayanbrenno-454222293](https://linkedin.com/in/rayanbrenno-454222293)
-- Leetcode: [RayanBrenno](https://leetcode.com/u/RayanBrenno)
+Computer Engineering student focused on building fullstack applications and solving real-world problems through software development.
 
+I have hands-on experience designing backend systems, implementing business logic, and developing web applications with authentication, data validation, and multi-user workflows.
 
-# Summary
-Computer Engineering student focused on building fullstack applications and solving real-world problems through software development. Experience in designing backend systems, implementing business logic, and developing web applications with authentication, data validation, and multi-user workflows. Strong interest in scalable systems, automation, and applied data solutions. Open to backend or fullstack opportunities.
+---
 
-# Experience
-## **3R Contabilidade**, Accounting Secretary
+## 🚀 Current Focus
 
-Jan 2022 – present
+* Backend development
+* Fullstack applications
+* System design and business logic
+* Automation and data-driven solutions
 
+---
 
+## 🛠️ Tech Stack
 
-4 years 4 months
+### Languages
 
-- Manage goods inventory for client companies.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-- Implemented automation with PyAutoGUI for file downloads.
+### Frameworks & Libraries
 
-- Reduced manual effort and optimized operational routines.
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
+### Databases
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-# Education
-## **Instituto Federal Goiano - Campus Trindade**, Computer Engineering
-Jan 2022 – present
+### Tools
 
-- GPA (IRA): 9.07 / 10.00
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-000000?style=for-the-badge)
 
-- Expected graduation: December 2026
+---
 
+## 📄 Resume
 
-
-# Projects
-## **Low Row Movement Analysis with MediaPipe**
-
-- Built a pose analysis system using MediaPipe to evaluate low row exercise execution
-
-- Defined baseline movement metrics from a reference video with correct form
-
-- Implemented rule-based validation to compare user movements against the reference pattern
-
-- Provided automated feedback based on deviation from ideal movement
-
-
-
-## **Credit Score Classification System**
-
-- Developed a fullstack application using React and FastAPI for credit risk analysis
-
-- Integrated a machine learning model to classify users into credit risk categories
-
-- Implemented authentication with JWT and input validation for financial data
-
-- Designed API endpoints and handled data processing between frontend and backend
-
-- Live demo: https://projeto-score-credito-web.vercel.app/
-
-
-
-## **Organizational Task Management Platform**
-
-- Built a multi-user task management system with support for organizations and shared tasks
-
-- Implemented role-based access control (owner and members) and task visibility rules
-
-- Developed backend with FastAPI and frontend with React, including dashboard interface
-
-- Structured personal and organizational task flows with database integration
-
-- Live demo: https://projeto-to-do-list-xi-gold.vercel.app/
-
-
-
-## **Invoice Download Automation**
-
-- Built a Python automation using PyAutoGUI to access a government website and download invoices for companies.
-
-
-
-## **Leetcode Solutions Repository**
-
-- Created a GitHub repository with solutions to various Leetcode problems in Python, demonstrating problem-solving skills and algorithmic knowledge.
-
-
-
-# Skills
-**Backend:** Python, FastAPI, REST APIs, JWT Authentication, Data Validation
-
-**Frontend:** React, Vite, Tailwind CSS, HTML, CSS
-
-**Databases:** PostgreSQL, MongoDB, SQL
-
-**Data & AI:** scikit-learn, Data Classification, MediaPipe (Pose Estimation)
-
-**Tools:** Git, PyAutoGUI, API Integration
-
-# Languages
-**Portuguese:** Native
-
-**English:** Advanced (B2)
-
-# Courses
-- Python 3 – Complete Course (26h) – Udemy
-
-- HTML5 with Practical Projects (18.5h) – Udemy
-
-- Python Journey (8h) – Hashtag Treinamentos
-
-- Artificial Intelligence Journey (8h) – Hashtag Treinamentos
+👉 [Download my CV](https://github.com/RayanBrenno/cv/blob/main/Rayan_Brenno_CV_EN.pdf)
