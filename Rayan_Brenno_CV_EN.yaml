@@ -45,12 +45,15 @@ cv:
           - "Expected graduation: December 2026"
 
     projects:
-      - name: Low Row Movement Analysis with MediaPipe
+      - name: YouTube Comments Collection and Analysis Platform
         highlights:
-          - Built a pose analysis system using MediaPipe to evaluate low row exercise execution
-          - Defined baseline movement metrics from a reference video with correct form
-          - Implemented rule-based validation to compare user movements against the reference pattern
-          - Provided automated feedback based on deviation from ideal movement
+          - Built a fullstack application with React (Vite + TypeScript) and FastAPI for automated collection of YouTube video comments
+          - Integrated YouTube Data API v3 to extract public video information and comments from a provided video URL
+          - Implemented JWT authentication, MongoDB persistence, and per-user query history
+          - Enabled updates of previously queried videos with comparison between past and current metrics
+          - Deployed frontend on AWS Amplify and backend on AWS EC2, with structure prepared for sentiment analysis via an AI model (integration planned)
+          - "Live demo: https://main.d3m1d4qui9fbcp.amplifyapp.com/"
+          - "Repository: https://github.com/RayanBrenno/Projeto-Coletar-Comentarios-do-Youtube"
 
       - name: Credit Score Classification System
         highlights:
@@ -59,6 +62,7 @@ cv:
           - Implemented authentication with JWT and input validation for financial data
           - Designed API endpoints and handled data processing between frontend and backend
           - "Live demo: https://projeto-score-credito-web.vercel.app/"
+          - "Repository: https://github.com/RayanBrenno/Projeto-Score-Credito-Web"
 
       - name: Organizational Task Management Platform
         highlights:
@@ -67,14 +71,19 @@ cv:
           - Developed backend with FastAPI and frontend with React, including dashboard interface
           - Structured personal and organizational task flows with database integration
           - "Live demo: https://projeto-to-do-list-xi-gold.vercel.app/"
+          - "Repository: https://github.com/RayanBrenno/Projeto-TO-DO-LIST"
 
-      - name: Invoice Download Automation
+      - name: Seated Cable Row Movement Analysis with MediaPipe
         highlights:
-          - Built a Python automation using PyAutoGUI to access a government website and download invoices for companies.
+          - Built a pose analysis system using MediaPipe to evaluate seated cable row exercise execution
+          - Defined baseline movement metrics from a reference video with correct form
+          - Implemented rule-based validation to compare user movements against the reference pattern
+          - Provided automated feedback based on deviation from ideal movement
+          - "Repository: https://github.com/RayanBrenno/Projeto-Classificar-Movimento"
 
-      - name: Leetcode Solutions Repository
+      - name: LeetCode Solutions Repository
         highlights:
-          - Created a GitHub repository with solutions to various Leetcode problems in Python, demonstrating problem-solving skills and algorithmic knowledge.
+          - Created a GitHub repository with solutions to various LeetCode problems in Python, demonstrating problem-solving skills and algorithmic knowledge
 
     skills:
       - label: Backend
@@ -88,6 +97,9 @@ cv:
 
       - label: Data & AI
         details: scikit-learn, Data Classification, MediaPipe (Pose Estimation)
+
+      - label: Cloud & DevOps
+        details: AWS (EC2, Amplify), Vercel, Render, MongoDB Atlas
 
       - label: Tools
         details: Git, PyAutoGUI, API Integration

@@ -45,12 +45,15 @@ cv:
           - "Previsão de conclusão: Dezembro de 2026"
 
     projects:
-      - name: Análise de Movimento da Remada Baixa com MediaPipe
+      - name: Plataforma de Coleta e Análise de Comentários do YouTube
         highlights:
-          - Desenvolvimento de um sistema de análise de pose utilizando MediaPipe para avaliar a execução da remada baixa
-          - Definição de métricas de movimento a partir de um vídeo de referência com execução correta
-          - Implementação de validação baseada em regras para comparar movimentos com o padrão ideal
-          - Geração de feedback automatizado com base no desvio em relação ao movimento ideal
+          - Desenvolvimento de aplicação fullstack com React (Vite + TypeScript) e FastAPI para coleta automatizada de comentários de vídeos do YouTube
+          - Integração com a YouTube Data API v3 para extração de informações públicas e comentários a partir da URL do vídeo
+          - Implementação de autenticação com JWT, persistência em MongoDB e histórico de consultas por usuário
+          - Suporte à atualização de vídeos previamente consultados com comparação de métricas anteriores e atuais
+          - Deploy do frontend no AWS Amplify e backend em instância AWS EC2, com estrutura preparada para análise de sentimentos via modelo de IA (integração planejada)
+          - "Demonstração: https://main.d3m1d4qui9fbcp.amplifyapp.com/"
+          - "Repositório: https://github.com/RayanBrenno/Projeto-Coletar-Comentarios-do-Youtube"
 
       - name: Sistema de Classificação de Score de Crédito
         highlights:
@@ -59,6 +62,7 @@ cv:
           - Implementação de autenticação com JWT e validação de dados financeiros
           - Criação de endpoints de API e processamento de dados entre frontend e backend
           - "Demonstração: https://projeto-score-credito-web.vercel.app/"
+          - "Repositório: https://github.com/RayanBrenno/Projeto-Score-Credito-Web"
 
       - name: Plataforma de Gerenciamento de Tarefas Organizacionais
         highlights:
@@ -67,10 +71,15 @@ cv:
           - Desenvolvimento do backend com FastAPI e frontend com React, incluindo interface de dashboard
           - Estruturação de fluxos de tarefas pessoais e organizacionais com integração a banco de dados
           - "Demonstração: https://projeto-to-do-list-xi-gold.vercel.app/"
+          - "Repositório: https://github.com/RayanBrenno/Projeto-TO-DO-LIST"
 
-      - name: Automação de Download de Notas Fiscais
+      - name: Análise de Movimento da Remada Baixa com MediaPipe
         highlights:
-          - Desenvolvimento de automação em Python utilizando PyAutoGUI para acessar site governamental e realizar download de notas fiscais
+          - Desenvolvimento de um sistema de análise de pose utilizando MediaPipe para avaliar a execução da remada baixa
+          - Definição de métricas de movimento a partir de um vídeo de referência com execução correta
+          - Implementação de validação baseada em regras para comparar movimentos com o padrão ideal
+          - Geração de feedback automatizado com base no desvio em relação ao movimento ideal
+          - "Repositório: https://github.com/RayanBrenno/Projeto-Classificar-Movimento"
 
       - name: Repositório de Soluções LeetCode
         highlights:
@@ -88,6 +97,9 @@ cv:
 
       - label: Dados & IA
         details: scikit-learn, Classificação de Dados, MediaPipe (Estimativa de Pose)
+
+      - label: Cloud & DevOps
+        details: AWS (EC2, Amplify), Vercel, Render, MongoDB Atlas
 
       - label: Ferramentas
         details: Git, PyAutoGUI, Integração de APIs
